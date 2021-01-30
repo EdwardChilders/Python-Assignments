@@ -1,0 +1,20 @@
+pip list would show all the items in your pip list
+
+deactivate will deactivate your virtual environment
+
+pip3 list will list all the tools associated with your desktop
+
+source will reactivate your virtual environment
+
+pip install will install any libraries you would like to use in your environment
+
+pip freeze allows you to see all the modules you have installed through pip
+
+for me, when I used pip freeze on my desktop, nothing showed up
+
+pip unistall will uninstall the module you ask to uninstall
+
+pip show dJango shows me that the package is not found
+
+pip search flask shows all the packages installed with flask
+
